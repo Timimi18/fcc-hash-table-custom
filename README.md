@@ -18,3 +18,5 @@ This engineering lab satisfies 100% of the rigorous core metrics established by 
 ## 📂 Code Layout Map
 * `main.py`: The production library housing the core `HashTable` architectural engine class.
 * `README.md`: Advanced configuration specs and administrative tracking document.
+
+See also: [reanalysis of my undergraduate thesis data](https://github.com/Timimi18/yam-peel-adsorption-analysis)
